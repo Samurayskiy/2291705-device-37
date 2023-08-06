@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Артём Попов](https://up.htmlacademy.ru/htmlcss/37/user/2291705).
-* Наставник: `Виктория Никитина`.(https://htmlacademy.ru/profile/id1217273).
+* Наставник: `Наталья Зотова`.(https://htmlacademy.ru/profile/id1079951).
 
 ---
 
